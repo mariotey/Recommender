@@ -16,4 +16,4 @@ venv/
 .vscode/
 
 # Downloaded datasets
-.data/input/movie_dataset
+.data/input/movie_dataset/
