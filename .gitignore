@@ -17,4 +17,5 @@ venv/
 
 # Downloaded datasets
 data/input/
+data/output/
 *.jpg
