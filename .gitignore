@@ -21,5 +21,14 @@ data/output/
 *.jpg
 
 
-#parquet files
-data/output
+# Data files (too large for GitHub)
+data/output/
+data/processed/
+data/input/
+
+# Large file types
+*.parquet
+*.csv
+*.npz
+*.pkl
+*.pickle
